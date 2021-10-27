@@ -26,6 +26,12 @@
 - [GitHub](https://github.com/TedLivist)
 - [LinkedIn](https://linkedin.com/in/tememandu)
 
+👤 **Igor Koloski**
+
+- GitHub: [@igorkol91](https://github.com/igorkol91)
+- Twitter: [@Destro49536502](https://twitter.com/Destro49536502)
+- LinkedIn: [Koloski Igor](https://www.linkedin.com/in/igor-koloski-a754aa208/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
