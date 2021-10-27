@@ -32,6 +32,12 @@
 - Twitter: [@Destro49536502](https://twitter.com/Destro49536502)
 - LinkedIn: [Koloski Igor](https://www.linkedin.com/in/igor-koloski-a754aa208/)
 
+👤 **Elyor Doniyorov**
+
+- GitHub: [@Elyor Doniyorov](https://github.com/elyor-doniyorov)
+- Twitter: [@Elyor Doniyorov](https://twitter.com/elyor-doniyorov)
+- LinkedIn: [@Elyor Doniyorov](https://www.linkedin.com/in/elyor-doniyorov)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
