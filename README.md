@@ -1,1 +1,1 @@
-# vetClinic
+![Screenshot](./big-sc.png)
