@@ -4,6 +4,15 @@
 
 > This project was built to develop understanding of what can impact database performance and how to solve some these issue that may hinder databases performance
 
+# Screenshots
+
+![Screenshot](sc-solution1.png)
+![Screenshot](sc-solution2.png)
+![Screenshot](sc-solution3.png)
+![Screenshot](sc1.png)
+![Screenshot](sc2.png)
+![Screenshot](sc3.png)
+
 ## Built With
 
 - SQL
