@@ -8,7 +8,23 @@
 
 - SQL
 
+## Getting Started
 
+### Setup
+
+#### To get a local copy up and running follow these simple example steps.
+
+- Click the green `Code` button on the repo
+- In your local PC, open your terminal in the folder you would like to clone the project.
+- Clone the repo with the command: `git clone (copied link)`; like so: `git clone https://github.com/igorkol91/vetClinic.git`
+- On the terminal, navigate into the directory like so: `cd vetClinic`
+
+## Author
+
+👤 **Teddy-Livingstone Ememandu**
+
+- [GitHub](https://github.com/TedLivist)
+- [LinkedIn](https://linkedin.com/in/tememandu)
 
 ## 🤝 Contributing
 
